@@ -6,4 +6,4 @@ url: "https://s-mahdihosseini.github.io" # the base hostname & protocol for your
 github_username:  s-mahdihosseini
 
 # Build settings
-theme: Uno-Timeline # or any other theme you want to use
+theme: primer # or any other theme you want to use
