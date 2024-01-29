@@ -2,9 +2,7 @@
 
 - [Draft](https://personal.lse.ac.uk/reisr/papers/99-infdis.pdf)
 
-<div style="text-align: right;"> <!-- Begin right align -->
-  <img src="figw_USdensities.png" style="width: 200px;"> <!-- Adjust width as needed -->
-</div> <!-- End right align -->
+![Description of the image](figw_USdensities.png)
 
 ## Authors:
 
