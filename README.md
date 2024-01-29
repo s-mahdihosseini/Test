@@ -1,7 +1,7 @@
 
 # [How likely is an inflation disaster?](https://personal.lse.ac.uk/reisr/papers/99-infdis.pdf)
 
-tt
+ttt
 ## Authors:
 - [Jens Hilscher](https://hilscher.ucdavis.edu/)
 - [Alon Raviv](https://mba.biu.ac.il/en/raviv)
