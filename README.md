@@ -1,5 +1,6 @@
 
-# [How likely is an inflation disaster?](https://personal.lse.ac.uk/reisr/papers/99-infdis.pdf)
+# How likely is an inflation disaster?
+- [Draft](https://personal.lse.ac.uk/reisr/papers/99-infdis.pdf)
 
 
 ## Authors:
