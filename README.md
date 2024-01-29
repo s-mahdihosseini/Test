@@ -1,10 +1,11 @@
 
-# How likely is an inflation disaster?
+# [How likely is an inflation disaster?](https://personal.lse.ac.uk/reisr/papers/99-infdis.pdf)
+
 
 ## Authors:
-- Jens Hilscher
-- Alon Raviv
-- Ricardo Reis
+- [Jens Hilscher](https://hilscher.ucdavis.edu/)
+- [Alon Raviv](https://mba.biu.ac.il/en/raviv)
+- [Ricardo Reis](https://www.r2rsquared.com/)
 
 ## Date:
 April 2022
