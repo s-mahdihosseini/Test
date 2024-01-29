@@ -1,5 +1,5 @@
 
-How likely is an inflation disaster?
+# How likely is an inflation disaster?
 
 ## Authors:
 - Jens Hilscher
