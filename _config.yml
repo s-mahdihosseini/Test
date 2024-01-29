@@ -6,4 +6,5 @@ url: "https://s-mahdihosseini.github.io" # the base hostname & protocol for your
 github_username:  s-mahdihosseini
 
 # Build settings
-theme: jekyll-theme-cayman
+# theme: jekyll-theme-cayman
+theme: jekyll-theme-merlot
