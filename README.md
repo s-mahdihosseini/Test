@@ -3,7 +3,7 @@
 - [Draft](https://personal.lse.ac.uk/reisr/papers/99-infdis.pdf)
 
 <div style="text-align: right;"> <!-- Begin right align -->
-  <img src="" style="width: 200px;"> <!-- Adjust width as needed -->
+  <img src="figw_USdensities.png" style="width: 200px;"> <!-- Adjust width as needed -->
 </div> <!-- End right align -->
 
 ## Authors:
